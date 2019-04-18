@@ -2,6 +2,11 @@ package main;
 
 import javax.swing.JOptionPane;
 
+/**
+ * 
+ * @author Dário Pereira
+ *
+ */
 public class ErrorMessage {
 	
 	public void errormessage(String message) {
