@@ -5,6 +5,11 @@ import javax.swing.UnsupportedLookAndFeelException;
 import mdlaf.MaterialLookAndFeel;
 import pt.iul.ista.pcd.gui.Inicio;
 
+/**
+ * 
+ * @author Dário Pereira
+ *
+ */
 public class TheISCTEBay {
 
 	public static void main(String[] args) {
